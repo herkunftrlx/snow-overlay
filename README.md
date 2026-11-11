@@ -64,7 +64,7 @@ Or simply double-click `run_snow.bat`.
 
 ## 🎮 Gaming Notes (Rocket League, Apex, etc.)
 To see the snow over games:
-- Set your game's display mode to **Borderless Windowed** (Pencereli Tam Ekran).
+- Set your game's display mode to **Borderless Windowed**.
 - In Exclusive Fullscreen, Windows bypasses DWM desktop composition. Borderless Windowed allows DWM to composite the transparent snow layer directly over your gameplay.
 
 ---
